@@ -1,0 +1,10 @@
+Trapezohedron Test List
+Ex 1
+red
+5.0
+  Ex 2  
+blue
+10.4
+Ex 3
+red, blue, tan
+24.5
