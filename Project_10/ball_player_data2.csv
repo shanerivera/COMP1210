@@ -1,0 +1,53 @@
+My Test Team
+O,21,John Doe,RF,150000,2.3,0.2,0.98
+O,11,Tim Dobbs,RF,140000,2.2,0.35,0.97
+O,13,Jim Dobbs,LF,140000,2,0.278,0.95
+O,12,Joey Ledet,LF,150000,2.1,0.325,0.96
+O,14,Sruthi Yalamanchili,CF,150000,1.9,0.285,0.94
+O,15,Kavyashree Krishnappa,CF,140000,1.8,0.298,0.93
+I,29,Sanket Chintapalli,1B,150000,2.3,0.2,0.98
+I,17,Jane Doe,1B,140000,2.2,0.35,0.97
+I,18,Buddy Bell,2B,150000,2.1,0.325,0.96
+I,19,Oscar De La Hoya,2B,140000,2,0.278,0.95
+I,20,David Umphress,3B,150000,1.9,0.285,0.94
+I,10,Mikie Mahtook,3B,140000,1.8,0.298,0.93
+I,22,Matty Ott,SS,150000,2.3,0.2,0.98
+I,23,Louis Coleman,SS,140000,2.2,0.35,0.97
+H,24,Austin Nola,LHP,150000,2.1,0.325,4,12,1.2
+P,25,Aaron Nola,RHP,140000,2,0.278,5,11,1.3
+P,26,John Malkovic,RHP,150000,1.9,0.285,6,10,1.4
+P,27,Louis Giglio,RHP,140000,1.8,0.298,7,9,1.5
+P,28,Gus Malzan,LHP,150000,2.3,0.2,8,8,1.6
+P,16,Tim Brando,LHP,140000,2.2,0.35,9,7,1.7
+R,30,Todd Strange,LHP,150000,2.1,0.325,10,6,1.8,2
+R,31,Blake Dean,RHP,140000,2,0.278,11,5,1.9,3
+R,32,Brian Wilson,RHP,150000,1.9,0.285,12,4,2,4
+R,33,Johnny Manziel,RHP,140000,1.8,0.298,13,3,2.1,2
+R,34,Green Lantern,LHP,150000,2.3,0.2,14,2,2.2,3
+R,35,Bruce Wayne,LHP,140000,2.2,0.35,15,1,2.3,4
+R,36,Bill Gates,LHP,150000,2.1,0.325,16,0,2.4,2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
